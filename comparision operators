@@ -14,3 +14,13 @@ print('e:',e)
 print('f:',f)
 print('g:',g)
 print('h:',h)
+
+output:
+enter the a value:20
+enter the b value:30
+c: True
+d: False
+e: True
+f: False
+g: False
+h: True
